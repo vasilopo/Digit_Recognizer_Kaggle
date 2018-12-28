@@ -18,6 +18,16 @@ The Dependencies for this jupyter-notebook are:
 -keras
 ```
 
+## Keras and Tensor Flow Implementations
+The Keras model has different architecture from the one on Tensor Flow.
+
+The Tensor Flow code has functionality for tensorboard.
+
+To start the tensorboard type in terminal:
+```
+tensorboard --logdir=/tmp/digit_classifier_model
+```
+
 ## Author
 * **Christos-Angelos Vasilopoulos**
 
