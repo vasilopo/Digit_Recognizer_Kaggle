@@ -12,17 +12,9 @@ https://www.kaggle.com/c/digit-recognizer
 The Dependencies for this jupyter-notebook are:
 ```
 -Python3
-```
-```
 -NumPy
-```
-```
 -sklearn
-```
-```
 -pandas
-```
-```
 -keras
 ```
 
